@@ -214,7 +214,7 @@ scroll_to_more: true
 # Automatically Excerpt. Not recommand.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 
@@ -247,7 +247,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-disqus_shortname: devinzhong
+disqus_shortname: hacker-notes
 
 # Baidu Share
 # Available value:
@@ -268,7 +268,7 @@ disqus_shortname: devinzhong
 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-84777013-1
 
 # CNZZ count
 #cnzz_siteid:
