@@ -43,7 +43,7 @@
     </main>
 
     <footer id="footer" class="footer">
-      <div class="footer-inner">
+      <div class="footer-inner" style="display: flex; justify-content: center; flex-wrap: wrap;">
         {% include '_partials/footer.swig' %}
         {% include '_scripts/third-party/analytics/busuanzi-counter.swig' %}
         {% block footer %}{% endblock %}
