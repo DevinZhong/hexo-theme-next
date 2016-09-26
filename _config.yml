@@ -247,7 +247,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-disqus_shortname: devinzhong
+disqus_shortname: way2hacker
 
 # Baidu Share
 # Available value:
@@ -268,7 +268,7 @@ disqus_shortname: devinzhong
 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-84777013-2
 
 # CNZZ count
 #cnzz_siteid:
@@ -397,3 +397,9 @@ images: images
 
 # Theme version
 version: 5.0.1
+
+# Donate 文章末尾显示打赏按钮
+#reward_comment:
+wechatpay: /uploads/wechatpay.jpg
+#alipay:
+
